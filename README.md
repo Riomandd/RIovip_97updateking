@@ -1,3 +1,4 @@
+<style>
         body {
             font-family: 'Arial', sans-serif;
             background-color: #808080;
@@ -154,49 +155,7 @@
         <p id="predictedNumber">Prediction :--</p>
         <p id="predictedPremium">Enjoy: --</p>
         <h2>GAME TIMING 1MIN</h2>
-        <p id="timeRemaining">--:--</p>
-        
-    <div class="button-group">
-        <a href= "https://t.me/+_EzB4L0DjKZhNDM1
-    </div>
-    </div>
-    <div class="card">
-        <h2>GAME HISTORY</h2>
-        <table id="dataTable">
-            <thead>
-                <tr>
-                    <th>PERIOD NUMBER</th>
-                    <th>NUMBER</th>
-                    <th>COLOUR</th>
-                    <th>PREMIUM</th>
-                </tr>
-            </thead>
-            <tbody>
-                <!-- Data rows will be inserted here -->
-            </tbody>
-        </table>
-    </div>
-    <div class="card">
-        <h2>HACK HISTORY</h2>
-        <table id="predictionHistoryTable">
-            <thead>
-                <tr>
-                    <th>PERIOD NUMBER</th>
-                    <th>HACK NUMBER</th>
-                    <th>RESULT NUMBER</th>
-                    <th>RESULT</th>
-                </tr>
-            </thead>
-            <tbody></tbody>
-        </table>
-        <div class="pagination">
-            <button id="prevPage" disabled="">Previous</button>
-            <button id="nextPage" disabled="">Next</button>
-        </div>
-    </div>
-    <div class="card">
-        <h2>DEVELOPER @RIOCHEATS007</h2>
-    </div>
+        <p id="timeRemaining">--:--</p
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     const tableBody = document.querySelector('#dataTable tbody');
