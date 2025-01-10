@@ -1,4 +1,4 @@
-body {
+        body {
             font-family: 'Arial', sans-serif;
             background-color: #808080;
             margin: 0;
